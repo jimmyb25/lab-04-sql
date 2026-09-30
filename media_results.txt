@@ -1,0 +1,11 @@
+username	followers	likes
+Jimmy	500	100
+Elliot	120	189
+John	95	78
+Mark	110	52
+Lucas	178	31
+Diego	197	30
+Thomas	1240	97
+Prabhav	1100	295
+Rylan	890	9182
+Jimmy	500	7
